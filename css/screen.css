@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color: purple;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -108,7 +108,7 @@ ul.posts {
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: yellow;
   }
 
   .site .meta {
