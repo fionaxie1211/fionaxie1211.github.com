@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: grey;
+  background-color: ![]({{ site.url }}/blog/images/6597266579237909893.JPG);
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
